@@ -1,7 +1,18 @@
-.column1 {
+.column {
   width: 300px;
-  background-color: lightyellow;
   float: left;
+}
+
+.column1 {
+  background-color: lightyellow;
+}
+
+.column2 {
+  background-color: skyblue;
+}
+
+.column3 {
+  background-color: pink;
 }
 
 .amazing {
