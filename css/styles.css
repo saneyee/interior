@@ -1,0 +1,10 @@
+.column1 {
+  width: 300px;
+  background-color: lightyellow;
+  float: left;
+}
+
+.amazing {
+  color: pink;
+  font-style: oblique;
+}
